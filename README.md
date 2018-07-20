@@ -1,6 +1,8 @@
 # Storeo
 > A data store with subscriptions
 
+[![npm](https://img.shields.io/npm/v/storeo.svg)](https://www.npmjs.com/package/storeo)
+
 The data store manages "entities" (values, objects).
 Entities can be added, removed, and updated.
 Queries can be performed on the store using predicates (filters).
